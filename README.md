@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/jtejido/fukushima_lambertw/branch/master/graph/badge.svg)](https://codecov.io/gh/jtejido/fukushima_lambertw)
 
 Toshio Fukushima's method for the Lambert W function.
-This was originally used in Archimedes' Benktander of the second kind's Mean function.
+This was originally used in Archimedes' Benktander of the second kind's Median function.
 
 This code is based on the following publication and its author's fortran code:
 
