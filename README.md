@@ -21,4 +21,5 @@ Alternatively:
 **Wp(W0)** and **Wm(W-1)** is exposed via:
 
 w0 := fukushima_lambertw.LambertW0(x float64)
+
 wm := fukushima_lambertw.LambertWm1(x float64)
